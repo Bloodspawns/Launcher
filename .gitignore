@@ -1,0 +1,16 @@
+target
+nbactions.xml
+nb-configuration.xml
+/nbproject/
+project.properties
+*.iml
+.idea/
+.project
+.settings/
+.classpath
+dependency-reduced-pom.xml
+*.exe
+native-win64/
+win64-jdk/
+packr_runelite-1.0.jar
+OpenJDK**.zip
